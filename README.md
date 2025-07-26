@@ -47,9 +47,12 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 - 💖 Enables artists to digitally showcase & sell artwork
 
 
+🌸✨ Contribution Activity ✨🌸
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PanugantiMugdha/PanugantiMugdha/output/snake.yaml" alt="Snake animation of contributions" />
+  <img src="https://raw.githubusercontent.com/PanugantiMugdha/PanugantiMugdha/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
 </p>
+
 
 
 ## 🧰 Tech Stack
