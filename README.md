@@ -46,29 +46,6 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 - 🛍️ Built in Electron.js + Node.js
 - 💖 Enables artists to digitally showcase & sell artwork
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanugantiMugdha&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ffb6c1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanugantiMugdha&theme=tokyonight&stroke=ff69b4&ring=ff69b4" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanugantiMugdha&layout=compact&theme=tokyonight&title_color=ff69b4" width="50%" />
-</div>
-
----
-
-## 🐍 My Contributions (Sssstylish Snake)
-
-> ⚠️ To enable this animation, follow instructions from [Platane/snk](https://github.com/Platane/snk)
-
-```html
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PanugantiMugdha/PanugantiMugdha/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
-</p>
-🏅 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PanugantiMugdha&theme=gruvbox&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars&margin-w=10&title_color=ff69b4" /> </p>
-
-
 ## 🧰 Tech Stack
 
 ```diff
