@@ -18,16 +18,14 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 
 ---
 
-## 🏆 My Achievements 💃 (Interactive)
+## 🏆 My Achievements 💃 
+
+## 🌟 Achievements
 
 <p align="center">
-  <marquee direction="left" scrollamount="6" behavior="scroll" width="90%">
-    🌊 <strong>IEEE YESIST12 Global Finalist</strong> (2nd Place) – AquaSentinel | 
-    🦷 <strong>Infosys Engineering Next Winner</strong> (2nd Place) – AI Dental Diagnostic | 
-    🎖️ <strong>Medal of Merit</strong> – 3rd Highest SGPA in 4th & 5th Sem | 
-    💰 <strong>₹25,000 URF Grant</strong> – Wearable Knee Health Monitoring System
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Grandstander&size=22&duration=4000&pause=1000&color=AA00FF&center=true&vCenter=true&width=800&lines=🎓+CGPA%3A+9.24+%2F+10+(87%25);🥈+2nd+Place+-+IEEE+YESIST12+Global+(2025)+for+AquaSentinel;🥈+2nd+Place+-+Infosys+Engineering+Next+2024+for+AI+Dentistry;🏅+Medal+of+Merit+-+3rd+Highest+SGPA+(9.42+%26+9.41);💰+Rs.+25%2C000+URF+Funding+for+Knee+Health+Monitor" />
 </p>
+
 
 ---
 
