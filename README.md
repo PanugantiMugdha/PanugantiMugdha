@@ -46,12 +46,27 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 - 🛍️ Built in Electron.js + Node.js
 - 💖 Enables artists to digitally showcase & sell artwork
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mugdhapanuganti&show_icons=true&theme=purple&title_color=9b59b6&icon_color=e84393" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugdhapanuganti&theme=purple&stroke=e84393&ring=e84393" width="48%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhapanuganti&layout=compact&theme=purple&title_color=9b59b6" width="50%" /> </div>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mugdhapanuganti&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ffb6c1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugdhapanuganti&theme=tokyonight&stroke=ff69b4&ring=ff69b4" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhapanuganti&layout=compact&theme=tokyonight&title_color=ff69b4" width="50%" />
+</div>
 
+---
 
-<p align="center"> <img src="https://raw.githubusercontent.com/mugdhapanuganti/mugdhapanuganti/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" /> </p>
+## 🐍 My Contributions (Sssstylish Snake)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mugdhapanuganti/mugdhapanuganti/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
+</p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mugdhapanuganti&theme=purple&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars&margin-w=10&title_color=e84393" /> </p> ```
+---
+
+## 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mugdhapanuganti&theme=gruvbox&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars&margin-w=10&title_color=ff69b4" />
+</p>
 ---
 
 ## 🧰 Tech Stack
@@ -62,4 +77,3 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 🧠 AI/ML:           TensorFlow, YOLOv5
 💽 Backend:         Node.js, MySQL, MongoDB
 🎨 Tools:           Canva, GitHub, Google Colab
-----
