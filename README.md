@@ -46,6 +46,12 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 - 🛍️ Built in Electron.js + Node.js
 - 💖 Enables artists to digitally showcase & sell artwork
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PanugantiMugdha/PanugantiMugdha/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
+</p>
+
+
 ## 🧰 Tech Stack
 
 ```diff
