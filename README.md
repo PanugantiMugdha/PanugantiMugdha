@@ -48,8 +48,9 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Grandstander&size=24&duration=4000&pause=1000&color=D94EFF&center=true&vCenter=true&width=600&lines=Crafting+clean+code+with+a+creative+mind...;Designing+tech+that+feels+human+%26+intuitive.;Engineer+by+logic%2C+artist+by+heart.%F0%9F%92%8C" />
+  <img src="https://your-image-url.gif" alt="Cute girl-in-tech banner with moving emojis" />
 </p>
+
 
 
 ## 🧰 Tech Stack
