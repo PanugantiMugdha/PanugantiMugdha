@@ -46,12 +46,9 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 - 🛍️ Built in Electron.js + Node.js
 - 💖 Enables artists to digitally showcase & sell artwork
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Grandstander&size=26&duration=4000&pause=1000&color=D94EFF&center=true&vCenter=true&width=600&lines=💻+Coding+with+sparkles+of+creativity...;✨+Dreaming+in+logic+and+pastel+colors...;🌸+Tech+with+heart%2C+UI+with+grace..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Grandstander&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=🌸+Hi+there!+I'm+a+tech+girl+💻;✨+I+code+with+creativity+and+love!+💖;🎀+Spreading+tech+magic+everywhere!+🪄" alt="Cute typing banner" />
 </p>
-
-
 
 
 ## 🧰 Tech Stack
