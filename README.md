@@ -70,3 +70,28 @@ I'm **Mugdha**, a final-year Computer Science Engineering student with a love fo
 🎨 Frontend:        HTML5, CSS, Electron
 🧠 AI/ML:           TensorFlow, YOLOv5
 🛠️ Tools:           GitHub, Node.js, Canva, MySQL
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mugdhapanuganti&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ffb6c1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugdhapanuganti&theme=tokyonight&stroke=ff69b4&ring=ff69b4" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhapanuganti&layout=compact&theme=tokyonight&title_color=ff69b4" width="50%" />
+</div>
+
+---
+
+## 🐍 My Contributions (Sssstylish Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mugdhapanuganti/mugdhapanuganti/output/github-contribution-grid-snake.svg" alt="Mugdha's contribution snake animation" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mugdhapanuganti&theme=gruvbox&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars&margin-w=10&title_color=ff69b4" />
+</p>
+
