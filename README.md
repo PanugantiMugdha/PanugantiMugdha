@@ -2,7 +2,7 @@
 <h3 align="center">✨ Aspiring Software Engineer | Artist ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Grandstander&size=24&duration=4000&pause=1000&color=AA00FF&center=true&vCenter=true&width=600&lines=Building+tech+with+heart+%26+code+with+art...;Dreaming+in+colors%2C+coding+in+logic...;Slaying+bugs+%E2%9D%A4+Designing+futures+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Grandstander&size=24&duration=4000&pause=1000&color=AA00FF&center=true&vCenter=true&width=700&lines=Combining+creativity+with+technology...;Designing+with+intuition%2C+developing+with+precision...;Turning+ideas+into+impactful+solutions+%F0%9F%8C%9F" />
 </p>
 
 ---
