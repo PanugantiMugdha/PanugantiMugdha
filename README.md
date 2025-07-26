@@ -21,7 +21,7 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 ## 🏆 My Achievements 💃 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Grandstander&size=24&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🎓+CGPA%3A+9.24+%2F+10+(87%25);🥈+2nd+Place+-+IEEE+YESIST12+Global+(2025)+for+AquaSentinel;🥈+2nd+Place+-+Infosys+Engineering+Next+2024+for+AI+Dentistry;🏅+Medal+of+Merit+-+3rd+Highest+SGPA+(9.42+%26+9.41);💰+Rs.+25%2C000+URF+Funding+for+Knee+Health+Monitor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Grandstander&size=24&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🎓+CGPA%3A+9.24+%2F+10+;🥈+2nd+Place+-+IEEE+YESIST12+Global+(2025)+for+AquaSentinel;🥈+2nd+Place+-+Infosys+Engineering+Next+2024+for+AI+Dentistry;🏅+Medal+of+Merit+-+3rd+Highest+SGPA+(9.42+%26+9.41);💰+Rs.+25%2C000+URF+Funding+for+Knee+Health+Monitor" />
 </p>
 
 
