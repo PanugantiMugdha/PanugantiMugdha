@@ -48,7 +48,7 @@ I blend **AI, design, cybersecurity, and imagination** to make impactful project
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PanugantiMugdha/PanugantiMugdha/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
+  <img src="https://raw.githubusercontent.com/PanugantiMugdha/PanugantiMugdha/output/snake.yaml" alt="Snake animation of contributions" />
 </p>
 
 
